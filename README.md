@@ -2,4 +2,4 @@
 
 MIT License
 
-Live demo : https://tictactoettt.netlify.app
+Live preview : https://tictactoettt.netlify.app
